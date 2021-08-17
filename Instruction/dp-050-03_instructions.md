@@ -53,7 +53,7 @@
     | 可用性オプション | インフラストラクチャの冗長性は必要ありません |
     | イメージ | 無料の SQL Server ライセンス: Windows Server 2019 - Gen1 の SQL Server 2017 Developer |
     | Azure Spot インスタンス | いいえ |
-    | サイズ | Standard_D2_v2 |
+    | サイズ | Standard_D2S_v3 |
     | ユーザー名 | sqladmin |
     | パスワード | Pa55w.rdPa55w.rd |
     | パスワードの確認 | Pa55w.rdPa55w.rd |
